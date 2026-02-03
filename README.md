@@ -14,4 +14,4 @@ docker run -dit --name dsa-mlops-p7 -v ./IaC:/iac dsa-mlops-image:p7 /bin/bash
 
 NOTA: No Windows você deve substituir ./IaC pelo caminho completo da pasta, por exemplo: C:\DSA\Cap15\IaC
 
-# Siga as demais instruções nas aulas.
+
